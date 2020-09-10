@@ -1,0 +1,1 @@
+{"version":3,"sources":["TodoList.scss"],"names":[],"mappings":"AAAA,WACE,oBAAqB","file":"main.26f016dc.chunk.css","sourcesContent":[".todo-list {\n  list-style-type: none;\n}\n"]}
